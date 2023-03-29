@@ -14,11 +14,6 @@ Pulse_2021_survey_public_data
 ##  Tech
 [d3.js](https://d3js.org/)
 
-##  Credits 
-@[Yupeng Lei](https://github.com/YupengLei)  
-@[Delaware Data Innovation Lab](https://ddil.ai/)  
-@[Tech Impact](https://techimpact.org/)
-
 ##  License  
 GNU AFFERO GENERAL PUBLIC LICENSE
 
